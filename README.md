@@ -6,11 +6,7 @@ This repo showcases how to test various parts of a common React/Redux app using 
 
 ## Setup
 
-1. `git clone git@github.com:mxstbr/react-testing`
-
-2. `cd react-testing`
-
-3. `npm install`
+`npm install`
 
 ## Structure
 
